@@ -1,17 +1,17 @@
-Introduction (notes and Chapter 0)
+Introduction (notes and Chapter 0) (Fabrizio)
  - what this course is about. Review of the topics and goals of the course. Preview of some highlights
  - mathematical preliminaries: proving things by induction, bounding summations, big-Oh and little-oh notations, basic probability
 04/02/2021 Giovedì	08.30 - 10.00	Aula N30, Piano 3, Sraffa 13	
 
-Divide-and-conquer I (Sections 2.1 and 2.2)
+Divide-and-conquer I (Sections 2.1 and 2.2) (Fabrizio)
 - Integer multiplication in O(n^{log_2 3}) time and proof of Master theorem
 05/02/2021 Venerdì	14.00 - 16.30	Aula N30, Piano 3, Sraffa 13	
 
-Divide-and-conquer II (Sections 2.3 and 2.4)
+Divide-and-conquer II (Sections 2.3 and 2.4) (Fabrizio)
 - Mergesort with analysis,  median in O(n) average time
 09/02/2021 Martedì	14.00 - 16.30	Aula N30, Piano 3, Sraffa 13	
 
-Graph Decomposition I (sections 3.1 and 3.2)
+Graph Decomposition I (sections 3.1 and 3.2) (Fabrizio)
 - Graphs, representations of graphs, directed and undirected graphs, paths, connected components, DFS for connected components in undirected graphs 
 11/02/2021 Giovedì	08.30 - 10.00	Aula N30, Piano 3, Sraffa 13	
 
