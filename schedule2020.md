@@ -1,17 +1,17 @@
-Introduction (notes and Chapter 0) (Fabrizio)
+Introduction (notes and Chapter 0) (**Fabrizio**)
  - what this course is about. Review of the topics and goals of the course. Preview of some highlights
  - mathematical preliminaries: proving things by induction, bounding summations, big-Oh and little-oh notations, basic probability
 04/02/2021 Giovedì	08.30 - 10.00	Aula N30, Piano 3, Sraffa 13	
 
-Divide-and-conquer I (Sections 2.1 and 2.2) (Fabrizio)
+Divide-and-conquer I (Sections 2.1 and 2.2) (**Fabrizio**)
 - Integer multiplication in O(n^{log_2 3}) time and proof of Master theorem
 05/02/2021 Venerdì	14.00 - 16.30	Aula N30, Piano 3, Sraffa 13	
 
-Divide-and-conquer II (Sections 2.3 and 2.4) (Fabrizio)
+Divide-and-conquer II (Sections 2.3 and 2.4) (**Fabrizio**)
 - Mergesort with analysis,  median in O(n) average time
 09/02/2021 Martedì	14.00 - 16.30	Aula N30, Piano 3, Sraffa 13	
 
-Graph Decomposition I (sections 3.1 and 3.2) (Fabrizio)
+Graph Decomposition I (sections 3.1 and 3.2) (**Fabrizio**)
 - Graphs, representations of graphs, directed and undirected graphs, paths, connected components, DFS for connected components in undirected graphs 
 11/02/2021 Giovedì	08.30 - 10.00	Aula N30, Piano 3, Sraffa 13	
 
@@ -35,10 +35,9 @@ Shortest Paths III (section 4.5)
 - Continuation of Dijkstra's algorithm, priority queue implementation as sorted lists and as heaps
 23/02/2021 Martedì	14.00 - 16.30	Aula N30, Piano 3, Sraffa 13	
 
-Lab I (notes)
+Lab I (notes) (**Fabrizio**)
 - Discuss python implementations of DFS and Dijkstra. Discuss solution of theoretical problems given as exercises the week before
 25/02/2021 Giovedì	08.30 - 10.00	Aula N30, Piano 3, Sraffa 13	
-
 
 Greedy Algorithms I (section 5.1)
 - Minimum spanning tree problem, Kruskal and Prim's algorithm, proof of correctness
@@ -47,7 +46,6 @@ Greedy Algorithms I (section 5.1)
 Greedy Algorithms II (section 5.1)
 - Correctness of Kruskal and Prim's algorithm, continued. Union-find data structure
 02/03/2021 Martedì	14.00 - 16.30	Aula N30, Piano 3, Sraffa 13	
-
 
 Greedy Algorithms III (section 5.2, notes)
 - Prefix codes, Huffman encoding, entropy
@@ -65,8 +63,7 @@ Dynamic programming III (section 6.4 and notes)
 - Numerical problems: knapsack, scheduling
 11/03/2021 Giovedì	08.30 - 10.00	Aula N30, Piano 3, Sraffa 13	
 
-
-Lab II (notes)
+Lab II (notes) (**Fabrizio**)
 - Discuss solution to dynamic programming exercises given the week before. Discuss memory use and implementation issues with dynamic programming
 12/03/2021 Venerdì	14.00 - 16.30	Aula N30, Piano 3, Sraffa 13	
 
