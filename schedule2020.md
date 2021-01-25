@@ -1,7 +1,7 @@
-Introduction (notes and Chapter 0) (**Fabrizio**)
+Introduction (notes and Chapter 0) (**Fabrizio**) (*4/02/2021 Giovedì	08.30 - 10.00	Aula N30, Piano 3, Sraffa 13*)
  - what this course is about. Review of the topics and goals of the course. Preview of some highlights
  - mathematical preliminaries: proving things by induction, bounding summations, big-Oh and little-oh notations, basic probability
-04/02/2021 Giovedì	08.30 - 10.00	Aula N30, Piano 3, Sraffa 13	
+	
 
 Divide-and-conquer I (Sections 2.1 and 2.2) (**Fabrizio**)
 - Integer multiplication in O(n^{log_2 3}) time and proof of Master theorem
