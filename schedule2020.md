@@ -1,8 +1,8 @@
-**Lecture Plan** (*T = Luca Trevisa, I = Fabrizio Iozzi, A = Niccolò Anceschi*)
+**Lecture Plan** (*T = Luca Trevisan, I = Fabrizio Iozzi, A = Niccolò Anceschi*)
 
-* References are to DPV textbook *
+*References are to DPV textbook*
 
-1. (T, I, A)
+1. (1-2) (T, I, A)
  - what this course is about. Review of the topics and goals of the course. Preview of some highlights 
  - mathematical preliminaries: proving things by induction, bounding summations, big-Oh and little-oh notations, basic probability (0.3 + notes)
 2. (3-4-5) (I)
