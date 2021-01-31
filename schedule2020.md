@@ -47,7 +47,9 @@
   - Numerical problems: knapsack, scheduling
 17. (43-44-45) (I, A)
   - Lab II: python implementations of algorithms and solution of theoretical problems given as exercises the weeks before
+
 **Midterm**
+
 18. (46-47) (T)
   - Flows I (section 7.2, notes)
   - Flows in network, residual network, Ford-Fulkerson
