@@ -26,48 +26,48 @@
    - Continuation of Dijkstra's algorithm, 
    - Priority queue implementation as sorted lists and as heaps
 10. (25-26) (I, A)
-   - Lab I: implementations of algorithms and solution of theoretical problems given as exercises the weeks before
+    - Lab I: implementations of algorithms and solution of theoretical problems given as exercises the weeks before
 11. (27-28-29) (T) (section 5.1)
-   - Minimum spanning tree problem, 
-   - Kruskal and Prim's algorithm, proof of correctness
+    - Minimum spanning tree problem, 
+    - Kruskal and Prim's algorithm, proof of correctness
 12. (30-31-32) (T) (section 5.1)
-   - Correctness of Kruskal and Prim's algorithm, continued. 
-   - Union-find data structure
+    - Correctness of Kruskal and Prim's algorithm, continued. 
+    - Union-find data structure
 13. (33-34) (T) (section 5.2, notes)
-   - Prefix codes, Huffman encoding, entropy
+    - Prefix codes, Huffman encoding, entropy
 14. (35-36-37) (T) (section 6.1, 6.6)
-   - Shortest paths with negative weights. The case of DAG. General graphs. Rethinking Dijkstra's algorithm
+    - Shortest paths with negative weights. The case of DAG. General graphs. Rethinking Dijkstra's algorithm
 15. (38-39-40) (T) (sections 6.2, 6.3)
-   - Problems involving strings: edit distance, longest increasing substring
+    - Problems involving strings: edit distance, longest increasing substring
 16. (41-42) (T) (section 6.4 and notes)
-   - Numerical problems: knapsack, scheduling
+    - Numerical problems: knapsack, scheduling
 17. (43-44-45) (I, A)
-   - Lab II: python implementations of algorithms and solution of theoretical problems given as exercises the weeks before
+    - Lab II: python implementations of algorithms and solution of theoretical problems given as exercises the weeks before
 
 **Midterm**
 
 18. (46-47) (T) (section 7.2, notes)
-   - Flows in network, residual network, Ford-Fulkerson
+    - Flows in network, residual network, Ford-Fulkerson
 19. (48-49-50) (T) (notes)
-   - Max flow min cut theorem, analysis of Edmonds-Karp
+    - Max flow min cut theorem, analysis of Edmonds-Karp
 20. (51-52-53) (T) (section 7.3, notes)
-   - Reductions to other problems: multicommodity flow, matching, proof of Hall's theorem
+    - Reductions to other problems: multicommodity flow, matching, proof of Hall's theorem
 21. (54-55) (I) (section 7.1, 7.4)
-   - Introduction, geometry of solutions, weak duality
+    - Introduction, geometry of solutions, weak duality
 22. (56-57-58) (I) (section 7.6)
-   - The simplex algorithm
+    - The simplex algorithm
 23. (59-60-61) (I) (section 7.2, 7.5)
-   - Problems modelled by linear programming: flows, zero-sum games
+    - Problems modelled by linear programming: flows, zero-sum games
 24. (62-63) (I) (notes)
-   - LAB III, More on the simplex algorithm
+    - LAB III, More on the simplex algorithm
 25. (64-65-66) (T) (section 8.1, notes)
-   - Combinatorial explosion, search problems, P, NP, reductions, NP-completeness
+    - Combinatorial explosion, search problems, P, NP, reductions, NP-completeness
 26. (67-68-69) (T) (notes)
-   - NP-completeness of SAT, clique, independent set
+    - NP-completeness of SAT, clique, independent set
 27. (70-71) (T) (notes)
-   - several NP-complete problems
+    - several NP-complete problems
 28. (72-73) (T)
-   - Lab IV (notes)
-   - Course review, discussion of practice final problems, ask us anything
+    - Lab IV (notes)
+    - Course review, discussion of practice final problems, ask us anything
  
 **Final**
