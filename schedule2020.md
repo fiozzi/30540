@@ -1,4 +1,6 @@
-Introduction (notes and Chapter 0) (**Fabrizio**) (*4/02/2021 Giovedì	08.30 - 10.00	Aula N30, Piano 3, Sraffa 13*)
+**Lecture Plan**
+
+1. Thu, Feb 4:
  - what this course is about. Review of the topics and goals of the course. Preview of some highlights
  - mathematical preliminaries: proving things by induction, bounding summations, big-Oh and little-oh notations, basic probability
 	
