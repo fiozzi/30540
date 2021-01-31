@@ -71,7 +71,7 @@
 24. (62-63) (I)
   - More on the simplex algorithm
   - Lab III: python implementations of algorithms and solution of theoretical problems given as exercises the weeks before
-25. (64-65-66)
+25. (64-65-66) (I)
   - NP-completeness I (section 8.1, notes)
   - Combinatorial explosion, search problems, P, NP, reductions, NP-completeness
 26. (67-68-69) (T)
@@ -84,4 +84,4 @@
   - Lab IV (notes)
   - Course review, discussion of practice final problems, ask us anything
  
-
+**Final**
